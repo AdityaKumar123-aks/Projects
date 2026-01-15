@@ -1,6 +1,6 @@
-# Projects
+# Academic Projects
 
-This is the compilation of all the projects I have done.
+"This is the compilation of all the projects I have done."
 
 Academic Projects | Indian Institute of Technology Bombay
 
