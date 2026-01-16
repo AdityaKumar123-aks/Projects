@@ -59,3 +59,27 @@ Compliance: Achieved source-current levels well below the IEEE-519 THD limit of 
 [View Project](./Single_Phase_Active_Filter_for_Harmonic_Compensation)
 
 
+**6. EV charging infrastructure for Heavy Duty Vehicles**
+
+Objective: To analyze fast-charging standards (150kW to 1MW) and study PV-Energy Storage solutions to mitigate grid impact.
+
+[View Project](./EV_charging_infrastructure_for_Heavy_Duty_Vehicles)
+
+
+**7. Omni-directional Robotic Vehicle**
+
+Objective: To build an Arduino-based holonomic robot with 4-omni wheels and Bluetooth wireless control.
+
+[View Project](./Omni-directional_Robotic_Vehicle)
+
+
+
+
+
+
+
+
+
+
+
+
